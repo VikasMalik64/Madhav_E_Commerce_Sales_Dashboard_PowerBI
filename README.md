@@ -51,7 +51,7 @@ PowerBI
 
 # 📸 Data Visualisation
 
-![8 Madhav E Commerce Dashboard](https://github.com/VikasMalik64/Madhav_E_Commerce_Sales_Dashboard_PowerBI/blob/6fd1f885cad839fb4bd8e2ec999dead18ae2ae3a/Dashboard.jpg)
+![8 Madhav E Commerce Dashboard](https://github.com/VikasMalik64/Madhav_E_Commerce_Sales_Dashboard_PowerBI/blob/82b1449504faaab15e816eb46835c198b153d820/Dashboard.jpg)
 
 # 📊 **Project Learnings:**
 - 📈 Created an interactive dashboard for online sales data tracking and analysis.
