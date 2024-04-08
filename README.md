@@ -6,7 +6,7 @@ Madhav Store's owner has reached out to us, seeking assistance in developing a d
 
 # Tech Stack Used
 
-![Untitled](https://github.com/VikasMalik64/Images/blob/95835d3f984063bd09cf83923036ba53a25d0172/Madhav%20Ecommerce%20Store/269225044-cebb1251-93c5-46b3-8d9c-4957e1d844cf.jpeg)
+![PowerBI](https://github.com/VikasMalik64/Images/blob/95835d3f984063bd09cf83923036ba53a25d0172/Madhav%20Ecommerce%20Store/269225044-cebb1251-93c5-46b3-8d9c-4957e1d844cf.jpeg)
 
 PowerBI
 
